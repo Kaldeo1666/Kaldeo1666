@@ -1,16 +1,60 @@
-## Hi there 👋
+ <div align="center">
 
-<!--
-**Kaldeo1666/Kaldeo1666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# KALDEO
 
-Here are some ideas to get you started:
+**CSE Student | Cybersecurity | Flutter & Android | DSA**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=900&color=D65A64&center=true&vCenter=true&width=650&lines=Exploring+how+systems+fail;Learning+security+through+experiments;Building+tools+and+solving+problems)](https://git.io/typing-svg)
+
+*“I don't collect buzzwords. I collect evidence.”*
+
+[GitHub](https://github.com/Kaldeo1666) · [Repositories](https://github.com/Kaldeo1666?tab=repositories)
+
+</div>
+
+---
+
+## `01 / About`
+
+I'm a Computer Science student interested in understanding how software works, how vulnerabilities emerge, and how useful applications are built.
+
+- 🔐 Exploring cybersecurity, CTFs and reverse engineering
+- 📱 Learning Flutter and Android development
+- 🧩 Practising data structures and algorithms
+- 🛠️ Building projects to turn concepts into working tools
+
+## `02 / Selected Projects`
+
+| Project | Focus |
+|---|---|
+| [Mini SIEM Dashboard](https://github.com/Kaldeo1666/mini-siem-dashboard) | Log ingestion, alerting and anomaly detection |
+| [Ransomware Detector](https://github.com/Kaldeo1666/ransomware-detector) | Defensive security and detection concepts |
+| [ECDAT](https://github.com/ctrl-Nix/ECDAT) | Enterprise cryptographic discovery and analysis |
+| [CTF Log](https://github.com/Kaldeo1666/ctf-log) | Challenge write-ups and technical learning |
+
+*Explore the repositories for implementation details, setup instructions and limitations.*
+
+## `03 / Tech Stack`
+
+**Languages**  
+Python · C · Java · C++
+
+**Cybersecurity**  
+Linux · Kali Linux · CTFs · Networking · Reverse Engineering
+
+**Development**  
+Flutter · Android · Git · GitHub · Docker
+
+## `04 / Operating Principle`
+
+> Every system has assumptions. Security begins where they go untested.
+
+I believe in reproducible experiments, meaningful documentation and understanding *why* something works—not just making it work.
+
+---
+
+<div align="center">
+
+*Still learning. Still testing. Still building.*
+
+</div>
