@@ -1,4 +1,8 @@
- <div align="center">
+<div align="center">
+  <img src="gitty1.png" alt="Kaldeo developer banner" width="100%">
+</div>
+
+<div align="center">
 
 # KALDEO
 
