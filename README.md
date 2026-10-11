@@ -63,7 +63,6 @@ I believe in reproducible experiments, meaningful documentation and understandin
 
 </div>
 
-
 <h2 align="center">Contribution Activity</h2>
 
 <picture>
