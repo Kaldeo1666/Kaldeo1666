@@ -1,8 +1,11 @@
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/593629cf-eeaa-43fa-95ab-576e397c3755" /><div align="center">
+<div align="center">
   <img src="https://raw.githubusercontent.com/Kaldeo1666/Kaldeo1666/main/Gitty1.png" alt="Kaldeo developer banner" width="100%">
 </div>
 
 <div align="center">
+
+# KALDEO
+
 
 # KALDEO
 
