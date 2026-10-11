@@ -1,4 +1,4 @@
-<div align="center">
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/593629cf-eeaa-43fa-95ab-576e397c3755" /><div align="center">
   <img src="https://raw.githubusercontent.com/Kaldeo1666/Kaldeo1666/main/Gitty1.png" alt="Kaldeo developer banner" width="100%">
 </div>
 
@@ -62,3 +62,15 @@ I believe in reproducible experiments, meaningful documentation and understandin
 *Still learning. Still testing. Still building.*
 
 </div>
+
+
+<h2 align="center">Contribution Activity</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Kaldeo1666/Kaldeo1666/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Kaldeo1666/Kaldeo1666/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake animation"
+    src="https://raw.githubusercontent.com/Kaldeo1666/Kaldeo1666/output/github-contribution-grid-snake.svg">
+</picture>
