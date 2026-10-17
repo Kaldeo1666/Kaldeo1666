@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Kaldeo1666/Kaldeo1666/main/Bacchirraaaa.png" alt="Kaldeo developer banner" width="100%">
+  <img src="https://raw.githubusercontent.com/Kaldeo1666/Kaldeo1666/main/Gitty1.png" alt="Kaldeo developer banner" width="100%">
 </div>
 
 <div align="center">
